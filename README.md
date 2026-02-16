@@ -21,19 +21,20 @@
 
 ## 📁 Projets Réalisés
 
-## 💻 Projet-Flash : Plateforme Web Full-stack 👥
+## 💻 Flash : Plateforme Web Full-stack 👥
 Description : Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
 
 Stack : HTML, CSS, JS, PHP, SQL 🛠️.
 
 Période : Septembre 2025 - Décembre 2025 📅.
 
-## 📺 Projet-Penthouse : Site Vitrine "Série TV" 🎬
+## 📺 Penthouse : Site Vitrine "Série TV" 🎬
 Description : Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons de mon K-drama préféré.
 
 Stack : HTML, CSS 🎨.
 
 Période : Octobre 2025 - Janvier 2026 📅.
+
 
 ## 👨‍💻 Projets en cours de préparation
 
