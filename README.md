@@ -29,7 +29,7 @@ Stack : HTML, CSS, JS, PHP, SQL 🛠️.
 
 Période : Septembre 2025 - Décembre 2025 📅.
 
-📺 Projet-Penthouse : Site Vitrine "Série TV" 🎬
+## 📺 Projet-Penthouse : Site Vitrine "Série TV" 🎬
 Description : Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons de mon K-drama préféré.
 
 Stack : HTML, CSS 🎨.
