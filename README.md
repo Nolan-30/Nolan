@@ -35,7 +35,15 @@ Stack : HTML, CSS 🎨.
 
 Période : Octobre 2025 - Janvier 2026 📅.
 
-## ⚔️ SNK Wiki - Labday (En cours) ⏳
+## 👨‍💻 Projets en cours de préparation
+
+## 🌐 Portfolio 
+Description : Conception de mon portfolio interactif avec un design sombre (Dark Mode), utilisant des dégradés élégants et des animations fluides.
+- **Points clés :** Navigation fluide, intégration de la bibliothèque AOS pour les animations au défilement et design responsive.
+
+Stack : HTML5, CSS3 (Flexbox/Grid), AOS Library 🎨.
+
+## ⚔️ SNK Wiki - Labday 
 Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
 
 Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
