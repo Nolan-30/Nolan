@@ -1,7 +1,7 @@
 # 🚀 Hello, moi c'est Nolan D'almeida !
 
-### 🎓 Développeur Web Full-stack en alternance (Bac +3)
-[cite_start]Actuellement en formation à la **Coding Factory (ESIEE-IT)** [cite: 22][cite_start], je me passionne pour la création d'applications web et mobiles modernes, sécurisées et performantes[cite: 27].
+🎓 Développeur Web Full-stack Junior
+Actuellement en formation à la **Coding Factory (ESIEE-IT)** , je me passionne pour la création d'applications web et mobiles modernes, sécurisées et performantes.
 
 ---
 
@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### [cite_start]**En cours d'acquisition / À venir** [cite: 12]
+###**En cours d'acquisition / À venir** [cite: 12]
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot.js&logoColor=white)
@@ -25,15 +25,15 @@
 
 ## 📁 Projets Phares
 
-### [cite_start]**Projet Scolaire - Plateforme Web Full-stack** [cite: 38]
-* [cite_start]**Description :** Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données[cite: 40].
-* [cite_start]**Stack :** HTML, CSS, JS, PHP, SQL[cite: 40].
-* [cite_start]**Période :** Septembre 2025 - Décembre 2025[cite: 39].
+### **Projet Scolaire - Plateforme Web Full-stack** 
+* **Description :** Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
+* **Stack :** HTML, CSS, JS, PHP, SQL.
+* **Période :** Septembre 2025 - Décembre 2025.
 
-### [cite_start]**Projet Personnel - Site Vitrine "Série TV"** [cite: 34]
-* [cite_start]**Description :** Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons d'une de mes séries préférées[cite: 36].
-* [cite_start]**Stack :** HTML, CSS[cite: 37].
-* [cite_start]**Période :** Octobre 2025 - Janvier 2026[cite: 35].
+### **Projet Personnel - Site Vitrine "Série TV"**
+* **Description :** Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons d'une de mes séries préférées.
+* **Stack :** HTML, CSS.
+* **Période :** Octobre 2025 - Janvier 2026.
 
 
 
