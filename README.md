@@ -20,7 +20,7 @@
 ![API REST](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-## 📁 Projets Réalisés
+## 📁 Projets Scolaire réalisés
 
 
 ## 💻 Flash : Plateforme Web Full-stack 👥
@@ -30,6 +30,20 @@ Stack : HTML, CSS, JS, PHP, SQL 🛠️.
 
 Période : Septembre 2025 - Décembre 2025 📅.
 
+## 👨‍💻 Projets Scolaire en cours ...
+
+
+## ⚔️ SNK Wiki - Labday 
+Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
+
+Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
+
+Période : Décembre 2025 - Aujourd'hui 📅.
+
+
+## 🌟 Projets personnels réalisés
+
+
 ## 📺 Penthouse : Site Vitrine "Série TV" 🎬
 Description : Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons de mon K-drama préféré.
 
@@ -37,8 +51,7 @@ Stack : HTML, CSS 🎨.
 
 Période : Octobre 2025 - Janvier 2026 📅.
 
-
-## 👨‍💻 Projets en cours de préparation
+## 👨‍💻 Projets Personnels en cours ...
 
 
 ## 🌐 Portfolio 
@@ -50,12 +63,7 @@ Stack : HTML5, CSS3 (Flexbox/Grid), AOS Library 🎨.
 Période : Février 2026 - Aujourd'hui 📅.
 
 
-## ⚔️ SNK Wiki - Labday 
-Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
 
-Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
-
-Période : Décembre 2025 - Aujourd'hui 📅.
 
 
 
