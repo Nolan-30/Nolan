@@ -45,7 +45,7 @@ Période : Décembre 2025 - Aujourd'hui 📅.
 ## 🏆 Projets Personnels Réalisés
 
 
-## 📺 Penthouse : Site Vitrine "Série TV" 🎬
+## 📺 Penthouse : Site Vitrine 
 Description : Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons de mon K-drama préféré.
 
 Stack : HTML, CSS 🎨.
