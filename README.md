@@ -1,10 +1,10 @@
 <h1 align="center">🚀 Hello, moi c'est Nolan D'almeida ! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Développeur+Web+Full-stack;Passionné+par+React;Étudiant+à+la+Coding+Factory" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines= Apprenti+Développeur+Web+Full-stack;Passionné+par+React;" alt="Typing SVG" />
 </p>
 
-<h2 align="center">🎓 Apprenti Développeur Web Full-stack</h2>
+<!-- <h2 align="center">🎓 Apprenti Développeur Web Full-stack</h2> -->
 
 <p align="center">
  🏫 Actuellement en première année à la Coding Factory (ESIEE-IT), je me passionne pour le développement de sites et d'applications web ou mobiles modernes, sécurisés et performants 💡.
