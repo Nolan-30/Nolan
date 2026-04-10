@@ -1,11 +1,18 @@
 <h1 align="center">🚀 Hello, moi c'est Nolan D'almeida ! ✨</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Apprenti+Développeur+Full-stack;Passionné+par+React;Étudiant+à+la+Coding+Factory" alt="Typing SVG" />
+</p>
+
 <h2 align="center">🎓 Apprenti Développeur Web Full-stack</h2>
-   🏫 Actuellement en première année à la Coding Factory (ESIEE-IT), je me passionne pour le développement de sites et d'applications web ou mobiles modernes, sécurisés et performants 💡.
+
+<p align="center">
+ 🏫 Actuellement en première année à la Coding Factory (ESIEE-IT), je me passionne pour le développement de sites et d'applications web ou mobiles modernes, sécurisés et performants 💡.
+</p>
 
 ## 🛠 Compétences Techniques
 
-## ✅ Technologies Maîtrisés
+## ✅ Technologies Maîtrisées
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,8 +27,3 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![API REST](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-
-
-
-
